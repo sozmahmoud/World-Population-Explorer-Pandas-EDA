@@ -93,20 +93,4 @@ Before running the notebook, check that your CSV has a `Continent` column and a 
 - Data visualisation (heatmap, line chart, boxplot)
 - Comparing groups (continents) over time
 
----
 
-## 🚀 Possible Improvements
-
-- Use a relative file path so the notebook runs on any machine.
-- Add titles, axis labels and legends to every chart.
-- Plot the continent trend as a time series with the years on the x-axis, in chronological order.
-- Add population density and growth-rate analysis.
-- Use log scales, since a few very large countries dominate the averages and boxplot.
-- Add a short written conclusion after each section.
-- Build an interactive version with Plotly or a Streamlit app.
-
----
-
-## 📄 License
-
-This project is for learning and portfolio purposes.
